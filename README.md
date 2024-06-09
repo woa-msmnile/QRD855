@@ -1,5 +1,10 @@
 
 # Windows Device Driver for QRD855 based on [SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers/)
+
+> [!WARNING]
+> Support for the QRD855 has moved to the [main repository](https://github.com/woa-msmnile/msmnile-Drivers).
+> This repository is now archived, and will not receive further updates. It is kept for historical purposes only.
+
 ## Go [Here](https://github.com/woa-msmnile/msmnile-Drivers/releases) to download Full Driver Pack and install guide.
 ## ⚠ Remember to decompress qcdxwsaum.7z and put the image file into the GRAPHICS.SOC_QC8150.XXXX_DESKTOP.
 
