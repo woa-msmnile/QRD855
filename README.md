@@ -3,8 +3,8 @@
 ## Go [Here](https://github.com/woa-msmnile/msmnile-Drivers/releases) to download Full Driver Pack and install guide.
 ## ⚠ Remember to decompress qcdxwsaum.7z and put the image file into the GRAPHICS.SOC_QC8150.XXXX_DESKTOP.
 
-This repository contains driver binary files for Oneplus 7T Pro.
-All driver binary files form a board support package to be used on Oneplus 7T Pro devices to provide hardware support for the Windows operating system.
+This repository contains driver binary files for Qualcomm Technologies Incorporated Reference Design 855 (QRD855).
+All driver binary files form a board support package to be used on Qualcomm Technologies Incorporated Reference Design 855 (QRD855) devices to provide hardware support for the Windows operating system.
 
 These driver files are not perfect, typos may exist, feel free to file an issue on GitHub in case you found any.
 
